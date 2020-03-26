@@ -1,4 +1,4 @@
-.main-header{
+.outline{
     border: 2px black solid;
     background-color: rgb(141, 174, 236);
     display: flex;
@@ -7,4 +7,6 @@
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
+    height: 100%;
+    align-items: center;
 }
